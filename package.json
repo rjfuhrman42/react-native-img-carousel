@@ -1,0 +1,23 @@
+{
+  "name": "react-native-img-carousel",
+  "version": "1.0.0",
+  "description": "A simple iOS-style image carousel for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjfuhrman42/react-native-img-carousel.git"
+  },
+  "keywords": [
+    "react-native",
+    "image-carousel"
+  ],
+  "author": "Reid Fuhrman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjfuhrman42/react-native-img-carousel/issues"
+  },
+  "homepage": "https://github.com/rjfuhrman42/react-native-img-carousel#readme"
+}
